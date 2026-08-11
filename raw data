@@ -1,1 +1,138 @@
-
+transaction_id	date	project_id	project_name	category	item_name	quantity	unit_price	budget	actual_cost	vendor	status
+TRX0001	2026-06-23 0:00:00	PRJ002	PROJECT BETA	IT Equipment	Laptop	24	7266000	173450000	195474000	PT Prima Solusi	Completed
+TRX0002	2026-02-09 0:00:00	PRJ005	Project Epsilon	IT Equipment	Laptop	25	8261000	225035000	206954000	CV Maju Jaya	In Progress
+TRX0006	2026-01-17 0:00:00	PRJ001	Project Alpha	IT Equipment	Monitor	5	2325000	12885000	11935000	CV Berkah Abadi	Cancelled
+TRX0007	2026-03-09 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	10	2219000	23094000	26321000	PT Prima Solusi	Pending
+TRX0010	2026-03-26 0:00:00	PRJ001	Project Alpha	IT Equipment	Monitor	23	2327000	53296000	62707000	PT Sumber Teknologi	Pending
+TRX0015	2026-01-19 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	1	2232000	2566000	2676000	PT Prima Solusi	Pending
+TRX0016	2026-02-04 0:00:00	PRJ009	Project Iota	IT Equipment	Laptop	22	8282000	184003000	200245000	PT Nusantara Supply	Completed
+TRX0017	2026-02-03 0:00:00	PRJ001	Project Alpha	IT EQUIPMENT	Monitor	21	2213000	46721000	41875000	PT Nusantara Supply	Pending
+TRX0020	2026-03-13 0:00:00	PRJ004	Project Delta	IT EQUIPMENT	Laptop	22	7112000	158913000	181390000	PT Nusantara Supply	Cancelled
+TRX0027	2026-01-17 0:00:00	PRJ002	Project Beta	IT Equipment	Printer	5	3352000	18248000	18636000	CV Berkah Abadi	Cancelled
+TRX0028	2026-04-18 0:00:00	PRJ008	Project Theta	IT Equipment	Laptop	12	7310000	90176000	102412000	PT Prima Solusi	Pending
+TRX0029	2026-04-20 0:00:00	PRJ009	Project Iota	IT Equipment	Laptop	13	7860000	110620000	94535000	CV Maju Jaya	Cancelled
+TRX0030	2026-06-16 0:00:00	PRJ008	Project Theta	IT EQUIPMENT	Laptop	24	7761000	214200000	187193000	PT Sumber Teknologi	Completed
+TRX0031	2026-02-11 0:00:00	PRJ006	Project Zeta	IT Equipment	Printer	20	3681000	80951000	68788000	PT Nusantara Supply	Completed
+TRX0038	2026-05-25 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	-3	2326000	42458000	41753000	PT Nusantara Supply	Completed
+TRX0040	2026-05-31 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	22	2108000	46511000	52747000	CV Maju Jaya	Cancelled
+TRX0041	2026-05-09 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	15	2359000	38568000	41853000	PT Prima Solusi	Cancelled
+TRX0050	2026-03-03 0:00:00	PRJ003	Project Gamma	IT Equipment	Printer	6	3219000	21712000	20973000	CV Berkah Abadi	Pending
+TRX0053	2026-03-25 0:00:00	PRJ008	Project Theta	IT Equipment	Laptop	19	7434000	137896000	165666000	CV Berkah Abadi	Pending
+TRX0056	2026-05-19 0:00:00	PRJ009	Project Iota	IT Equipment	Printer	13	3547000	49989000	51780000	CV Berkah Abadi	Pending
+TRX0057	2026-01-16 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	22	2182000	54261000	52490000	CV Berkah Abadi	In Progress
+TRX0059	2026-02-14 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	12	8231000	98534000	98489000	PT Nusantara Supply	Completed
+TRX0062	2026-04-06 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	3	2437000	7082000	6792000	CV Maju Jaya	Completed
+TRX0064	2026-02-16 0:00:00	PRJ009	Project Iota	IT Equipment	Laptop	20	8492000	189523000	166483000	PT Nusantara Supply	In Progress
+TRX0066	05/05/2026	PRJ009	Project Iota	IT EQUIPMENT	Monitor	12	2216000	26769000	29345000	PT Prima Solusi	In Progress
+TRX0067	2026-06-21 0:00:00	PRJ007	Project Eta	IT Equipment	Printer	5	3483000	18995000	18287000	PT Nusantara Supply	Completed
+TRX0068	2026-06-26 0:00:00	PRJ007	Project Eta	IT Equipment	Laptop	11	7072000	88646000	80750000	PT Nusantara Supply	Completed
+TRX0071	2026-05-10 0:00:00	PRJ005	Project Epsilon	IT Equipment	Monitor	21	2455000	57796000	55912000	CV Berkah Abadi	Cancelled
+TRX0072	2026-01-11 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	11	2520000	26802000	30321000	CV Maju Jaya	Cancelled
+TRX0073	2026-06-18 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	11	2032000	24267000	22022000	PT Prima Solusi	Pending
+TRX0078	2026-04-17 0:00:00	PRJ007	Project Eta	IT Equipment	Monitor	8	2429000	21898000	22913000	PT Sumber Teknologi	cancelled
+TRX0081	2026-01-06 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	17	2279000	42899000	40769000	CV Berkah Abadi	Cancelled
+TRX0082	2026-06-25 0:00:00	PRJ006	Project Zeta	IT Equipment	Printer	2	3458000	7038000	7558000	CV Berkah Abadi	Cancelled
+TRX0087	2026-06-06 0:00:00	PRJ009	Project Iota	IT Equipment	Monitor	9	2406000	23620000	20882000	PT Nusantara Supply	Cancelled
+TRX0089	2026-05-15 0:00:00	PRJ010	Project Kappa	IT Equipment	Monitor	3	2150000	7417000	7196000	CV Berkah Abadi	Cancelled
+TRX0090	2026-05-13 0:00:00	PRJ003	Project Gamma	IT Equipment	Printer	14	3590000	56474000	57770000	CV Maju Jaya	In Progress
+TRX0098	2026-03-20 0:00:00	PRJ008	Project Theta	IT Equipment	Laptop	12	7371000	85968000	90660000	PT Sumber Teknologi	Cancelled
+TRX0099	2026-02-18 0:00:00	PRJ007	Project Eta	IT Equipment	Printer	22	3362000	78736000	82112000	PT Sumber Teknologi	Cancelled
+TRX0104	2026-04-12 0:00:00	PRJ001	Project Alpha	IT Equipment	Printer	14	3922000	54093000	64566000	CV Berkah Abadi	pending
+TRX0107	2026-05-09 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	22	6972000	155127000	156701000	PT Nusantara Supply	Completed
+TRX0109	2026-05-11 0:00:00	PRJ008	Project Theta	IT Equipment	Monitor	22	2093000	49114000	42698000	CV Berkah Abadi	Completed
+TRX0110	2026-01-16 0:00:00	PRJ010	 project kappa 	IT Equipment	Monitor	2	2213000	4825000	4702000	PT Sumber Teknologi	Cancelled
+TRX0116	2026-01-19 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	9	7457000	71878000	61198000	CV Maju Jaya	pending
+TRX0124	2026-04-10 0:00:00	PRJ007	Project Eta	IT Equipment	Monitor	10	2069000	20651000	23802000	PT Prima Solusi	In Progress
+TRX0126	2026-03-23 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	13	3773000	52815000	55028000	PT Nusantara Supply	Completed
+TRX0137	2026-01-22 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	22	3768000	83683000	89888000	CV Maju Jaya	In Progress
+TRX0147	2026-02-04 0:00:00	PRJ002	PROJECT BETA	IT Equipment	Monitor	11	2182000	24238000	24358000	CV Maju Jaya	Completed
+TRX0148	2026-04-20 0:00:00	PRJ002	Project Beta	IT Equipment	Monitor	5	2394000	12783000	12152000	PT Nusantara Supply	Pending
+TRX0151	2026-03-21 0:00:00	PRJ007	Project Eta	IT Equipment	Monitor	21	2275000	51273000	46974000	PT Sumber Teknologi	Pending
+TRX0152	2026-06-05 0:00:00	PRJ004	Project Delta	IT EQUIPMENT	Laptop	8	6912000	57336000	57287000		In Progress
+TRX0153	2026-01-31 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	12	3261000	43289000	38374000	PT Sumber Teknologi	In Progress
+TRX0154	2026-01-30 0:00:00	PRJ006	Project Zeta	IT Equipment	Printer	9	3827000	38881000	37964000	CV Maju Jaya	Completed
+TRX0162	2026-01-11 0:00:00	PRJ008	Project Theta	IT Equipment	Printer	3	3942000	13196000	11820000	CV Berkah Abadi	completed
+TRX0163	2026-04-16 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	20	7911000	158087000	156405000	PT Prima Solusi	Cancelled
+TRX0165	2026-01-15 0:00:00	PRJ003	Project Gamma	IT Equipment	Monitor	8	2,341,000	18790000	21441000	CV Maju Jaya	Cancelled
+TRX0169	2026-02-26 0:00:00	PRJ010	Project Kappa	IT Equipment	Laptop	6	7879000	53619000	56268000	PT Prima Solusi	Completed
+TRX0176	2026-04-19 0:00:00	PRJ008	Project Theta	IT Equipment	Printer	6	4001000	26687000	22514000	PT Sumber Teknologi	Cancelled
+TRX0179	2026-05-06 0:00:00	PRJ006	Project Zeta	IT Equipment	Laptop	11	8283000	92080000	89665000	PT Sumber Teknologi	Pending
+TRX0182	2026-02-24 0:00:00	PRJ005	Project Epsilon	IT EQUIPMENT	Laptop	13	6843000	99702000	100875000	CV Maju Jaya	
+TRX0188	2026-04-28 0:00:00	PRJ003	Project Gamma	IT Equipment	Printer	7	3450000	27711000	28204000	CV Maju Jaya	In Progress
+TRX0189	22/04/2026	PRJ010	Project Kappa	IT Equipment	Printer	16	3837000	67897000	57636000	 CV Berkah Abadi 	Cancelled
+TRX0198	2026-05-25 0:00:00	PRJ006	Project Zeta	IT Equipment	Laptop	23	8378000	203285000	216412000	CV Maju Jaya	In Progress
+TRX0199	2026-05-07 0:00:00	PRJ010	Project Kappa	IT Equipment	Laptop	1	7956000	7808000	9186000	CV Maju Jaya	Completed
+TRX0203	2026-05-10 0:00:00	PRJ010	 project kappa 	IT Equipment	Monitor	25	2470000	64311000	66492000	CV Maju Jaya	Cancelled
+TRX0207	2026-01-09 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	2	3754000	7576000	8455000	PT Nusantara Supply	Cancelled
+TRX0210	2026-06-10 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	5	8491000	45400000	48063000	PT Prima Solusi	In Progress
+TRX0213	2026-01-02 0:00:00	PRJ009	Project Iota	IT Equipment	Monitor	4	2072000	9459000	8797000	PT Sumber Teknologi	Pending
+TRX0219	2026-02-13 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	19	3646000	77001000	82270000	PT Sumber Teknologi	In Progress
+TRX0226	2026-06-03 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	6	7234000	42797000	51541000	PT Prima Solusi	Completed
+TRX0255	2026-06-15 0:00:00	PRJ009	PROJECT IOTA	IT Equipment	Monitor	5	2248000	11390000	11999000	PT Nusantara Supply	Cancelled
+TRX0256	03/06/2026	PRJ010	Project Kappa	IT Equipment	Printer	18	3454000	68170000	61090000		Pending
+TRX0263	2026-03-07 0:00:00	PRJ006	Project Zeta	IT Equipment	Printer	5	3382000	19073000	16487000	PT Nusantara Supply	Completed
+TRX0265	2026-03-25 0:00:00	PRJ007	Project Eta	IT Equipment	Laptop	10	7733000	78402000	82702000	PT Prima Solusi	Pending
+TRX0266	2026-01-22 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	16	2294000	35231000	37429000	CV Berkah Abadi	Cancelled
+TRX0268	2026-01-22 0:00:00	PRJ008	Project Theta	IT Equipment	Laptop	8	7124000	58403000	64248000	PT Sumber Teknologi	Completed
+TRX0276	2026-04-16 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	14	8184000	109191000	196543800	CV Maju Jaya	Pending
+TRX0279	2026-06-01 0:00:00	PRJ009	Project Iota	IT Equipment	Printer	13	3512000	47490000	43540000	CV Maju Jaya	Cancelled
+TRX0281	2026-01-04 0:00:00	PRJ003	Project Gamma	IT Equipment	Monitor	5	2508000	11922000	14165000	 CV Berkah Abadi 	Cancelled
+TRX0284	2026-05-15 0:00:00	PRJ008	Project Theta	IT Equipment	Printer	4	3758000	15105000	15906000	CV Maju Jaya	Pending
+TRX0290	2026-02-09 0:00:00	PRJ004	Project Delta	IT Equipment	Monitor	15	2258000	37589000	39678000	CV Maju Jaya	In Progress
+TRX0293	2026-02-03 0:00:00	PRJ003	Project Gamma	IT Equipment	Monitor	10	2317000	23581000	23937000	PT Sumber Teknologi	Cancelled
+TRX0301	2026-05-05 0:00:00	PRJ003	Project Gamma	IT Equipment	Printer	1	3213000	3062000	3587000	CV Berkah Abadi	Pending
+TRX0305	2026-06-07 0:00:00	PRJ002	PROJECT BETA	IT Equipment	Printer	17	3217000	60527000	53355000	PT Nusantara Supply	In Progress
+TRX0306	2026-02-07 0:00:00	PRJ008	Project Theta	IT Equipment	Printer	17	3904000	67600000	61412000	PT Prima Solusi	Pending
+TRX0307	2026-05-17 0:00:00	PRJ005	Project Epsilon	IT Equipment	Monitor	2	2072000	4267000	4104000	CV Maju Jaya	Cancelled
+TRX0308	2026-06-16 0:00:00	PRJ001	Project Alpha	IT Equipment	Monitor	18	2331000	47884000	43197000	PT Nusantara Supply	In Progress
+TRX0315	2026-04-23 0:00:00	PRJ007	 project eta 	IT Equipment	Monitor	21	2359000	51882000	57741000	 CV Maju Jaya 	Pending
+TRX0316	2026-04-14 0:00:00	PRJ008	Project Theta	IT Equipment	Laptop	2	7386000	15031000	16490000	PT Sumber Teknologi	Pending
+TRX0322	2026-06-07 0:00:00	PRJ001	Project Alpha	IT Equipment	Laptop	21	7433000	154831000	152255000	CV Berkah Abadi	completed
+TRX0325	2026-05-14 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	19	3999000	85175000	70354000	CV Berkah Abadi	Pending
+TRX0334	2026-06-27 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	23	3618000	82087000	79270000	CV Maju Jaya	Pending
+TRX0340	2026-03-19 0:00:00	PRJ004	Project Delta	IT Equipment	Printer	13	3403000	46368000	50735000	PT Prima Solusi	In Progress
+TRX0346	2026-02-03 0:00:00	PRJ004	Project Delta	IT Equipment	Printer	23	3275000	74972000	70625000	PT Sumber Teknologi	Cancelled
+TRX0349	2026-04-08 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	15	3739000	54485000	64521000	CV Berkah Abadi	Pending
+TRX0358	2026-05-09 0:00:00	PRJ010	Project Kappa	IT Equipment	Monitor	16	2035000	35328000	32586000	PT Nusantara Supply	Pending
+TRX0365	2026-03-07 0:00:00	PRJ004	Project Delta	IT Equipment	Printer	4	3303000	15114000	13633000	PT Prima Solusi	Completed
+TRX0369	2026-01-29 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	13	7125000	93654000	99363000	CV Maju Jaya	Pending
+TRX0370	2026-01-22 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	22	3669000	81970000	79470000	CV Berkah Abadi	In Progress
+TRX0384	27/04/2026	PRJ007	Project Eta	IT Equipment	Laptop	3	7530000	24643000	22459000	CV Berkah Abadi	In Progress
+TRX0385	2026-06-18 0:00:00	PRJ007	Project Eta	IT Equipment	Monitor	1	2074000	2168000	2297000	PT Prima Solusi	Cancelled
+TRX0389	2026-03-01 0:00:00	PRJ007	Project Eta	IT Equipment	Laptop	6	7290000	43234000	43878000	PT Prima Solusi	Pending
+TRX0393	2026-01-26 0:00:00	PRJ006	Project Zeta	IT Equipment	Printer	24	3406000	84875000	85976000	CV Maju Jaya	In Progress
+TRX0403	2026-01-12 0:00:00	PRJ004	Project Delta	IT Equipment	Printer	24	3578000	83679000	86267000	CV Berkah Abadi	Cancelled
+TRX0407	2026-03-25 0:00:00	PRJ002	Project Beta	IT Equipment	Printer	10	3983000	43244000	36551000	CV Maju Jaya	Completed
+TRX0412	2026-01-02 0:00:00	PRJ006	Project Zeta	IT Equipment	Laptop	23	7001000	182673000	174329000	PT Sumber Teknologi	Pending
+TRX0420	2026-06-08 0:00:00	PRJ010	Project Kappa	IT Equipment	Laptop	15	7470000	124267000	130424000	 PT Sumber Teknologi 	
+TRX0421	2026-06-08 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	21	3595000	77086000	78848000	CV Berkah Abadi	Pending
+TRX0425	2026-02-14 0:00:00	PRJ001	PROJECT ALPHA	IT Equipment	Laptop	7	7121000	49091000	58102000	PT Nusantara Supply	pending
+TRX0427	2026-02-08 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	25	7905000	195218000	209609000	PT Nusantara Supply	Pending
+TRX0428	2026-04-06 0:00:00	PRJ002	Project Beta	IT Equipment	Printer	17	3490000	66834000	66766000	CV Berkah Abadi	Cancelled
+TRX0431	2026-06-22 0:00:00	PRJ002	Project Beta	IT Equipment	Monitor	3	2178000	6921000	6535000	PT Nusantara Supply	In Progress
+TRX0437	2026-02-10 0:00:00	PRJ004	Project Delta	IT Equipment	Printer	7	3421000	26667000	26328000	PT Prima Solusi	in progress
+TRX0442	2026-06-22 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	15	3463000	51599000	47287000	PT Prima Solusi	Pending
+TRX0444	2026-06-10 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	14	7,711,000	120166000	107609000	CV Maju Jaya	
+TRX0445	2026-01-18 0:00:00	PRJ004	Project Delta	IT Equipment	Monitor	22	2428000	57689000	53987000	CV Maju Jaya	Cancelled
+TRX0456	2026-03-10 0:00:00	PRJ002	PROJECT BETA	IT Equipment	Monitor	21	2295000	53473000	55148000	CV Maju Jaya	Cancelled
+TRX0458	2026-01-08 0:00:00	PRJ003	Project Gamma	IT Equipment	Monitor	10	2027000	19762000	18634000		Pending
+TRX0460	2026-02-05 0:00:00	PRJ006	Project Zeta	IT Equipment	Monitor	1	2231000	2431000	2493000	PT Sumber Teknologi	Completed
+TRX0461	2026-03-25 0:00:00	PRJ006	Project Zeta	IT Equipment	Laptop	21	7425000	149556000	178108000	CV Berkah Abadi	Pending
+TRX0470	2026-01-03 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	7	3341000	25718000	26207000	PT Nusantara Supply	Completed
+TRX0471	2026-06-10 0:00:00	PRJ001	 project alpha 	IT Equipment	Monitor	17	2338000	42476000	47334000	CV Berkah Abadi	Pending
+TRX0475	2026-04-19 0:00:00	PRJ001	Project Alpha	IT Equipment	Monitor	4	2258000	9237000	9604000	PT Sumber Teknologi	Pending
+TRX0478	2026-06-04 0:00:00	PRJ007	Project Eta	IT Equipment	Printer	11	4018000	45821000	40122000	CV Maju Jaya	Completed
+TRX0479	2026-01-27 0:00:00	PRJ005	Project Epsilon	IT Equipment	Laptop	4	7457000	34116000	30233000	PT Sumber Teknologi	Pending
+TRX0480	2026-06-23 0:00:00	PRJ001	Project Alpha	IT Equipment	Printer	11	3978000	44979000	43913000	 PT Prima Solusi 	Cancelled
+TRX0485	2026-06-14 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	24	7933000	195861000	224076000	PT Prima Solusi	completed
+TRX0488	2026-02-02 0:00:00	PRJ005	Project Epsilon	IT Equipment	Monitor	14	2249000	33032000	34777000	PT Nusantara Supply	Cancelled
+TRX0489	2026-01-03 0:00:00	PRJ004	Project Delta	IT Equipment	Laptop	22	8306000	189298000	197191000	CV Berkah Abadi	Cancelled
+TRX0491	2026-03-01 0:00:00	PRJ004	Project Delta	IT Equipment	Monitor	2	2189000	4619000	4860000	CV Maju Jaya	In Progress
+TRX0492	2026-05-01 0:00:00	PRJ003	Project Gamma	IT Equipment	Laptop	1	6848000	7526000	6599000	PT Nusantara Supply	Completed
+TRX0494	2026-02-21 0:00:00	PRJ002	Project Beta	IT Equipment	Monitor	18	2320000	42190000	43525000	PT Prima Solusi	Pending
+TRX0496	2026-04-13 0:00:00	PRJ002	PROJECT BETA	IT Equipment	Printer	15	3807000	58637000	64746000	PT Prima Solusi	in progress
+TRX0498	2026-03-25 0:00:00	PRJ009	Project Iota	IT Equipment	Monitor	1	2337000	2516000	2785000	PT Sumber Teknologi	In Progress
+TRX0219	2026-02-13 0:00:00	PRJ010	Project Kappa	IT Equipment	Printer	19	3646000	77001000	82270000	PT Sumber Teknologi	In Progress
+TRX0126	2026-03-23 0:00:00	PRJ005	Project Epsilon	IT Equipment	Printer	13	3773000	52815000	55028000	PT Nusantara Supply	Completed
+											
+								11273627000			
