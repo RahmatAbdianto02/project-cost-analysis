@@ -60,3 +60,34 @@ SELECT
 FROM project_cost
 GROUP BY project_name
 ORDER BY selisih DESC;
+
+-====================================================
+SELECT
+    item_name,
+    SUM(budget) AS total_budget,
+    SUM(actual_cost) AS total_actual_cost,
+    SUM(actual_cost) - SUM(budget) AS selisih,
+    ROUND(
+        (SUM(actual_cost) - SUM(budget))
+        / NULLIF(SUM(budget), 0) * 100,
+        2
+    ) AS over_budget_percent
+FROM project_cost
+GROUP BY item_name
+ORDER BY selisih DESC;
+
+-=================================================
+select
+	category,
+	sum(budget) as total_budget,
+	sum(actual_cost) as total_actual_cost,
+	sum(actual_cost) - sum(budget) as selisih,
+	round(
+		(sum(actual_cost) - sum(budget))
+		/ nullif(sum(budget), 0) * 100,
+		2
+	) as over_budget_percent
+from project_cost
+group by category
+order by selisih desc;
+
